@@ -11,7 +11,7 @@ public class TestFor {
             total += i;
         }
 
-        System.out.println("total: "+total);
+        System.out.println("totalPrice: "+total);
 
 
         /* for (int i=2; i<9 ;i++){
